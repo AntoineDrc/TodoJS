@@ -15,6 +15,7 @@ const delBtn = document.querySelector('.delBtn');
 delBtn.addEventListener('click', function() // Delete default task on click
 {
     deleteTask(taskCard); // Target the right task
+    console.log(compteur());
 });
 
 // On crée la fonction de suppression
