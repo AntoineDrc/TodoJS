@@ -1,0 +1,15 @@
+#btn {
+    margin-bottom: 10px;
+    width: 1400px;
+    height: 27px;
+}
+
+#todocard {
+    display: flex;
+}
+
+.delBtn {
+    position: relative;
+    left: -30px;
+    top: -15px;
+}
